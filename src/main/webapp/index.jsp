@@ -4,7 +4,7 @@
 <title>DEVSECOPS APP</title>
 </head>
 <body>
-<h1>DEVSECOPS after Bulid CALCULATOR </h1>
+<h1>DEVSECOPS before Bulid CALCULATOR </h1>
 <form action="HelloServlet" method="post">
     <label for="Enter your Name"> Enter your name:                      </label> <input type="text" name="yourName" size="20"><br><br>
     <label for="Enter your First Number"> Enter your First Number:      </label> <input type="number" name="firstnumber" size="20"><br><br>
